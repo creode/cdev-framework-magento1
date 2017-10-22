@@ -1,2 +1,2 @@
-# cdev-framework-drupal7
-Drupal7 plugin for cdev
+# cdev-framework-magento1
+Magento1 plugin for cdev
